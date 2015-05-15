@@ -1,0 +1,102 @@
+H:\VSTS\WebApiTest\WebApiTest.Tests\obj\Debug\WebApiTest.Tests.csprojResolveAssemblyReference.cache
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\WebApiTest.Tests.dll.config
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\WebApiTest.Tests.dll
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\WebApiTest.Tests.pdb
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\Newtonsoft.Json.dll
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\System.Net.Http.Formatting.dll
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\System.Web.Helpers.dll
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\System.Web.Http.dll
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\System.Web.Http.WebHost.dll
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\System.Web.Mvc.dll
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\System.Web.Razor.dll
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\System.Web.WebPages.dll
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\WebApiTest.dll
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\EntityFramework.dll
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\System.Web.Optimization.dll
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\Microsoft.Owin.dll
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\Owin.dll
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\Microsoft.Owin.Security.dll
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\System.Web.Http.Owin.dll
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\WebApiTest.pdb
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\Newtonsoft.Json.xml
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\System.Net.Http.Formatting.xml
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\System.Web.Helpers.xml
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\System.Web.Http.xml
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\System.Web.Http.WebHost.xml
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\System.Web.Mvc.xml
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\System.Web.Razor.xml
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\System.Web.WebPages.xml
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\EntityFramework.xml
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\System.Web.Optimization.xml
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\Microsoft.Owin.xml
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\Microsoft.Owin.Security.xml
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\System.Web.Http.Owin.xml
+H:\VSTS\WebApiTest\WebApiTest.Tests\obj\Debug\WebApiTest.Tests.dll
+H:\VSTS\WebApiTest\WebApiTest.Tests\obj\Debug\WebApiTest.Tests.pdb
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\EntityFramework.SqlServer.dll
+H:\VSTS\WebApiTest\WebApiTest.Tests\bin\Debug\EntityFramework.SqlServer.xml
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\WebApiTest.Tests.dll.config
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\WebApiTest.Tests.dll
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\WebApiTest.Tests.pdb
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\HelixSaleService.dll
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\Newtonsoft.Json.dll
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\System.Net.Http.Formatting.dll
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\System.Web.Helpers.dll
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\System.Web.Http.dll
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\System.Web.Http.WebHost.dll
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\System.Web.Mvc.dll
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\System.Web.Razor.dll
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\System.Web.WebPages.dll
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\System.Web.Optimization.dll
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\Microsoft.Owin.dll
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\Owin.dll
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\Microsoft.Owin.Security.dll
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\System.Web.Http.Owin.dll
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\HelixSaleService.pdb
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\EntityFramework.xml
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\EntityFramework.SqlServer.xml
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\Newtonsoft.Json.xml
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\System.Net.Http.Formatting.xml
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\System.Web.Helpers.xml
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\System.Web.Http.xml
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\System.Web.Http.WebHost.xml
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\System.Web.Mvc.xml
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\System.Web.Razor.xml
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\System.Web.WebPages.xml
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\System.Web.Optimization.xml
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\Microsoft.Owin.xml
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\Microsoft.Owin.Security.xml
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\bin\Debug\System.Web.Http.Owin.xml
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\obj\Debug\WebApiTest.Tests.csprojResolveAssemblyReference.cache
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\obj\Debug\WebApiTest.Tests.dll
+H:\VSTS\Software DeveloperTest\HelixSaleService\HelixSaleService\WebApiTest.Tests\obj\Debug\WebApiTest.Tests.pdb
