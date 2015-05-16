@@ -8,7 +8,7 @@ namespace WebApiTest.Models
     public class Sale
     {
         public int ID { get; set; }
-        public DateTime? timestamp { get; set; }
+        public long timestamp { get; set; }
         public string location_name { get; set; }
         public string sales_person_name { get; set; }
         
