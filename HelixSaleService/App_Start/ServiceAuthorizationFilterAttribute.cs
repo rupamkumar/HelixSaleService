@@ -11,7 +11,7 @@ namespace HelixSaleService.App_Start
     {
         protected override bool IsAuthorized(System.Web.Http.Controllers.HttpActionContext actionContext)
         {
-            IPrincipal user = actionContext.RequestContext.Principal;
+            string suthorize = actionContext.Request.Headers.Authorization.Parameter ;
             return base.IsAuthorized(actionContext);
         }
     }

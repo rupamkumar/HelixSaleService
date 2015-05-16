@@ -7,26 +7,22 @@ using System.Data.Entity.Infrastructure;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
-using System.Security.Principal;
 using System.Threading.Tasks;
 using System.Web.Http;
 using System.Web.Http.Description;
 using WebApiTest.Models;
 
-namespace WebApiTest.Controllers
+namespace HelixSaleService.Controllers
 {
-    
+    [ServiceAuthenticationFilter]
     public class SalesController : ApiController
     {
         private SaleServiceContext db = new SaleServiceContext();
 
-        
-        //Authentication and Authorization now disabled.       
-        //[ServiceAuthenticationFilter]
-        //[ServiceAuthorizationFilter ]
         // GET: api/Sales
+        [ServiceAuthorizationFilter]
         public IQueryable<Sale> GetSales()
-        {           
+        {
             return db.Sales;
         }
 
@@ -79,6 +75,7 @@ namespace WebApiTest.Controllers
         }
 
         // POST: api/Sales
+        [ServiceAuthorizationFilter]
         [ResponseType(typeof(Sale))]
         public async Task<IHttpActionResult> PostSale(Sale sale)
         {

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using HelixSaleService.App_Start;
+using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.Entity;
@@ -14,21 +15,18 @@ using WebApiTest.Models;
 
 namespace WebApiTest.Controllers
 {
+    [ServiceAuthenticationFilter]
+    //[RoutePrefix("api/Products")]
     public class ProductsController : ApiController
     {
         private SaleServiceContext db = new SaleServiceContext();
 
-        //[ResponseType(typeof(Product))]
-        //public IHttpActionResult Get()
-        //{
-        //    IPrincipal user = User;
-        //    return Ok();
-        //}
-        
+
+       
+        [ServiceAuthorizationFilter]
         // GET: api/Products
         public IQueryable<Product> GetProducts()
-        {
-            IPrincipal user = User;
+        {            
             return db.Products;
         }
 
