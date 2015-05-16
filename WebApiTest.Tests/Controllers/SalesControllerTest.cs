@@ -20,7 +20,7 @@ namespace WebApiTest.Tests.Controllers
       public void GetSale()
       {
           // Arrange
-          SalesController controller = new SalesController();
+          SalesController_ controller = new SalesController_();
 
           // Act
           IEnumerable<Sale> result = controller.GetSales();
@@ -35,7 +35,7 @@ namespace WebApiTest.Tests.Controllers
       public void PutSaleTest()
       {
           // Arrange
-          SalesController controller = new SalesController();
+          SalesController_ controller = new SalesController_();
           Sale sale = new Sale();
           sale.location_name = "EXX";
           sale.sales_person_name = "test";
