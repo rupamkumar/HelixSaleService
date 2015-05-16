@@ -27,6 +27,7 @@ namespace HelixSaleService.Controllers
         }
 
         // GET: api/Sales/5
+        [ServiceAuthorizationFilter]
         [ResponseType(typeof(Sale))]
         public async Task<IHttpActionResult> GetSale(int id)
         {
