@@ -18,6 +18,7 @@ PUSHD .
 cd %SOLFOLDER%
 
 SET SOLFOLDER=%CD%\
+echo %SOLFOLDER%
 	POPD
 rem echo %SOLFOLDER%
 rem pull does not work of version 1.8.1.0
