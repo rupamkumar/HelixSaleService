@@ -22,10 +22,12 @@ rem %SOLFOLDER%\Utilities\git\git.exe fetch
 rem echo %GPATH%
 
 
+
 %GPATH%git.exe checkout -b ProjectB
 
 rem %GPATH%git.exe checkout -b ProjectA
 
+%GPATH%git.exe checkout -b ProjectB
 
  IF NOT %ERRORLEVEL%== 0 GOTO :ERROREXIT
 

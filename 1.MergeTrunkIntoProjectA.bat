@@ -26,11 +26,9 @@ rem echo %GPATH%
 
 rem %GPATH%git.exe tag -a  -m "Test Message"
 
- %GPATH%git.exe checkout  ProjectB 
 
  rem %GPATH%git.exe checkout  HelixLeisure 
-
-
+ %GPATH%git.exe checkout  ProjectB 
  %GPATH%git.exe merge  ProjectA 
 
  IF NOT %ERRORLEVEL%== 0 GOTO :ERROREXIT
