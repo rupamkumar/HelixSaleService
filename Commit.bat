@@ -18,6 +18,7 @@ PUSHD .
 cd %SOLFOLDER%
 
 SET SOLFOLDER=%CD%\
+echo %SOLFOLDER%
 	POPD
 rem echo %SOLFOLDER%
 rem pull does not work of version 1.8.1.0
@@ -25,9 +26,11 @@ rem %SOLFOLDER%\Utilities\git\git.exe fetch
 rem echo %GPATH%
 
 rem %GPATH%git.exe tag -a  -m "Test Message"
- %GPATH%git.exe checkout  ProjectB 
+ %GPATH%git.exe checkout  ProjectA 
 
- %GPATH%git.exe merge  ProjectA 
+ %GPATH%git.exe add .
+ 
+ %GPATH%git.exe commit  -a -m "this is test"
 
  IF NOT %ERRORLEVEL%== 0 GOTO :ERROREXIT
 
@@ -38,7 +41,7 @@ rem git pull
 ECHO.
 ECHO.
 	ECHO --------------------------------------------------------------
-	ECHO -------THERE WAS AN ISSUE, Reset merge------------
+	ECHO -------THERE WAS AN ISSUE, FETCH IS NOT COMPLETE------------
 	ECHO --------------------------------------------------------------
 ECHO.
 ECHO.

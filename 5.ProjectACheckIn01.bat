@@ -25,9 +25,8 @@ rem %SOLFOLDER%\Utilities\git\git.exe fetch
 rem echo %GPATH%
 
 rem %GPATH%git.exe tag -a  -m "Test Message"
- %GPATH%git.exe checkout  ProjectB 
 
- %GPATH%git.exe merge  ProjectA 
+ %GPATH%git.exe push origin : ProjectA --tags
 
  IF NOT %ERRORLEVEL%== 0 GOTO :ERROREXIT
 
@@ -38,7 +37,7 @@ rem git pull
 ECHO.
 ECHO.
 	ECHO --------------------------------------------------------------
-	ECHO -------THERE WAS AN ISSUE, Reset merge------------
+	ECHO -------THERE WAS AN ISSUE, FETCH IS NOT COMPLETE------------
 	ECHO --------------------------------------------------------------
 ECHO.
 ECHO.
