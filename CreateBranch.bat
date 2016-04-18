@@ -21,7 +21,11 @@ rem pull does not work of version 1.8.1.0
 rem %SOLFOLDER%\Utilities\git\git.exe fetch 
 rem echo %GPATH%
 
+
 %GPATH%git.exe checkout -b ProjectB
+
+rem %GPATH%git.exe checkout -b ProjectA
+
 
  IF NOT %ERRORLEVEL%== 0 GOTO :ERROREXIT
 

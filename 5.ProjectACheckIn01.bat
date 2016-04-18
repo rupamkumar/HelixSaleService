@@ -28,6 +28,9 @@ rem %GPATH%git.exe tag -a  -m "Test Message"
 
  %GPATH%git.exe push origin : ProjectB --tags
 
+rem %GPATH%git.exe push origin : ProjectA --tags
+
+
  IF NOT %ERRORLEVEL%== 0 GOTO :ERROREXIT
 
  GOTO EXIT 
