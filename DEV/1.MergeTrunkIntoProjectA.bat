@@ -25,7 +25,7 @@ rem %SOLFOLDER%\Utilities\git\git.exe fetch
 rem echo %GPATH%
 
 rem %GPATH%git.exe tag -a  -m "Test Message"
- %GPATH%git.exe checkout  ProjectA 
+ %GPATH%git.exe checkout  HelixLeisure 
 
  %GPATH%git.exe merge  ProjectA 
 
