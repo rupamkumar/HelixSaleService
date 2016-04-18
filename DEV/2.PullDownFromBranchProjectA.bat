@@ -22,7 +22,7 @@ rem pull does not work of version 1.8.1.0
 rem %SOLFOLDER%\Utilities\git\git.exe fetch 
 rem echo %GPATH%
 rem %GPATH%git.exe pull --rebase  
-%GPATH%git.exe checkout ProjectA
+%GPATH%git.exe checkout HeilxLeisure
 %GPATH%git.exe pull origin : ProjectA
  IF NOT %ERRORLEVEL%== 0 GOTO :ERROREXIT
 
