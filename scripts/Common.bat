@@ -2,7 +2,7 @@
 SET ProjectFolder=HelixSaleService
 SET /p TOBRANCH="Please Enter branch Name: "
 SET BASEFOLDER=%~dp0
-set PATH=%PATH%;C:\Program Files\Git\bin\
+rem set PATH=%PATH%;C:\Program Files\Git\bin\
 set GPATH = C:\Program Files\Git\bin\
 
 
