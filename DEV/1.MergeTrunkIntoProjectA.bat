@@ -3,19 +3,19 @@
 
 
 SET BASEFOLDER=%~dp0..
-set PATH=%PATH%;C:\Program Files\Git\bin\
+rem set PATH=%PATH%;C:\Program Files\Git\bin\
 set GPATH = C:\Program Files\Git\bin\
 
 
 
 
-rem echo %BASEFOLDER%
+echo %BASEFOLDER%
 rem SET SOLFOLDER=%BASEFOLDER%\..\..\..\
 
 SET SOLFOLDER=%BASEFOLDER%
-echo %SOLFOLDER%
+rem echo %SOLFOLDER%
 PUSHD .
-cd %SOLFOLDER%
+rem cd %SOLFOLDER%
 
 SET SOLFOLDER=%CD%\
 	POPD
